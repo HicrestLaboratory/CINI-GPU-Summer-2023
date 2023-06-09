@@ -239,7 +239,7 @@ int main(int argc, char *argv[]) {
 // =========================================== Set-up the problem ============================================
 
   if (argc < 3) {
-    printf("Usage: lab3_ex1 n v\n");
+    printf("Usage: ./Execute n v\n");
     return(1);
   }
   printf("argv[1] = %s\n", argv[1]);
